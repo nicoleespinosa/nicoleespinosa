@@ -6,6 +6,11 @@
 
 <p> Eu sou a Nicole e sou uma desenvolvedora web em formação! </p>
 
+🔹 Brasileira, 18 anos
+🔹 Desenvolvedora Web;
+🔹 Cursando ADS na FIAP;
+🔹 No momento, estou me aprofundando em HTML, CSS e JavaScript;
+🔹 Estudando POO com Java;
 
 ## Stats
 <div align="center">
