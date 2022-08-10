@@ -2,15 +2,15 @@
   <img src="/assets/img-top.png" alt="Nicole Espinosa" width="410" height="231">
 </p>
 
-# Hello World!
+# Oi! 👋 Bem vindo(a) ao meu perfil!
 
 <p> Eu sou a Nicole e sou uma desenvolvedora web em formação! </p>
 
-🔹 Brasileira, 18 anos
-🔹 Desenvolvedora Web;
-🔹 Cursando ADS na FIAP;
-🔹 No momento, estou me aprofundando em HTML, CSS e JavaScript;
-🔹 Estudando POO com Java;
+🔹 Brasileira, 18 anos; <br>
+🔹 Desenvolvedora Web; <br>
+🔹 Cursando ADS na FIAP; <br>
+🔹 No momento, estou me aprofundando em HTML, CSS e JavaScript; <br>
+🔹 Estudando POO com Java; <br>
 
 ## Stats
 <div align="center">
