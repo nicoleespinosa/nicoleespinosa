@@ -2,7 +2,7 @@
   <img src="/assets/img-top.png" alt="Nicole Espinosa" width="410" height="231">
 </p>
 
-# Hello World!👋
+# Hello World! :wave:
 
 <p> Eu sou a Nicole e sou uma desenvolvedora web em formação! </p>
 
