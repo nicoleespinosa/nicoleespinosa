@@ -1,4 +1,5 @@
-# Hello World! :wave:
+# Hello World! <img width="30" src="https://user-images.githubusercontent.com/107057243/190282040-24a03503-d311-4919-8c6e-c1a29c1e72e4.gif">
+
 
 <p> Eu sou a Nicole e sou uma desenvolvedora web em formação! </p>
 
