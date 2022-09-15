@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://user-images.githubusercontent.com/107057243/190283821-671cb3b2-cb4c-48c1-a943-90baa9f74d45.gif">
+<img align="right" height="520em" src="https://user-images.githubusercontent.com/107057243/190283821-671cb3b2-cb4c-48c1-a943-90baa9f74d45.gif">
 
 <h1 align="left">Hello World! <img width="30" src="https://user-images.githubusercontent.com/107057243/190282040-24a03503-d311-4919-8c6e-c1a29c1e72e4.gif"></h1>
 
@@ -10,17 +10,6 @@
 🌿 Cursando ADS na FIAP; <br>
 🌿 No momento, estou me aprofundando em HTML, CSS e JavaScript; <br>
 🌿 Estudando POO com Java; <br>
-
-<p>
-  
-</p>
-
-## Stats
-<div align="left">
-  <a href="https://github.com/nicoleespinosa">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nicoleespinosa&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleespinosa&layout=compact&langs_count=7&theme=kacho_ga"/>
-</div>
 
 ## Skills
 <div>
