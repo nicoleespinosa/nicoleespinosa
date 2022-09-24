@@ -9,7 +9,7 @@
 🌿 Desenvolvedora Web; <br>
 🌿 Cursando ADS na FIAP; <br>
 🌿 No momento, estou me aprofundando em HTML, CSS e JavaScript; <br>
-🌿 Estudando POO com Java; <br>
+🌿 Estudando Banco de Dados; <br>
 
 ## Skills
 <div>
