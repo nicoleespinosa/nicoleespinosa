@@ -8,8 +8,7 @@
 🌿 Brasileira, 18 anos; <br>
 🌿 Desenvolvedora Web; <br>
 🌿 Cursando ADS na FIAP; <br>
-🌿 No momento, estou me aprofundando em HTML, CSS e JavaScript; <br>
-🌿 Estudando Banco de Dados; <br>
+🌿 Estudando Java OO; <br>
 
 ## Skills
 <div>
