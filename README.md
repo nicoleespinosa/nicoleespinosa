@@ -5,10 +5,10 @@
 
 <p> Eu sou a Nicole e sou uma desenvolvedora web em formação! </p>
 
-> Brasileira, 19 anos; <br>
-> Desenvolvedora Back-End; <br>
-> Cursando ADS na FIAP; <br>
-> Estudando Java e PL/SQL; <br>
+- Brasileira, 19 anos; <br>
+- Desenvolvedora Back-End; <br>
+- Cursando ADS na FIAP; <br>
+- Estudando Java e PL/SQL; <br>
 
 ## Skills
 <div>
