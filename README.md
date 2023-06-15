@@ -8,7 +8,7 @@
 - Brasileira, 19 anos; <br>
 - Desenvolvedora Back-End; <br>
 - Cursando ADS na FIAP; <br>
-- Estudando Kotlin e Docker; <br>
+- Estudando Docker <br>
 
 ## Skills
 <div>
