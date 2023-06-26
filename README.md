@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e07a5f&height=120&section=header"/>
 
-<img height="269em" align="left" src="https://user-images.githubusercontent.com/107057243/190283821-671cb3b2-cb4c-48c1-a943-90baa9f74d45.gif">
+<img align="left" src="https://user-images.githubusercontent.com/107057243/190283821-671cb3b2-cb4c-48c1-a943-90baa9f74d45.gif" width="150px" align="left" border-radius="50%">
 
  
 ```java
