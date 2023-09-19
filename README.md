@@ -13,7 +13,7 @@ public class Nicole {
         Inteligência Artificial + Automação}
         
       else if (Gatos, Musica, Arte + Design) { 
-        System.out.println("Feel free to connect!"}
+        System.out.println("Feel free to connect!")}
   
 "Above us only sky." - Imagine by John Lennon.
 ```
