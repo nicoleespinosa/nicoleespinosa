@@ -9,12 +9,18 @@ public class Nicole {
         System.out.println("Olá, meu nome é Nicole!");
         
         String[] estudandoAtualmente = {"Java", "Docker", "Kubernetes"};
-      for (String i = tenhoInteresse, i++) {
-        Inteligência Artificial + Automação}
         
-      else if (Gatos, Musica, Arte + Design) { 
-        System.out.println("Feel free to connect!")}
-  
+        for (String interesse : estudandoAtualmente) {
+            if (interesse.equals("Inteligência Artificial") || interesse.equals("Automação")) {
+                System.out.println("Tenho interesse em " + interesse);
+            } else if (interesse.equals("Gatos") || interesse.equals("Música") || interesse.equals("Arte") || interesse.equals("Design")) {
+                System.out.println("Também gosto de " + interesse);
+            }
+        }
+        
+        System.out.println("Feel free to connect!");
+    }
+}
 "Above us only sky." - Imagine by John Lennon.
 ```
 
