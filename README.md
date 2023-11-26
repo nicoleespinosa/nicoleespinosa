@@ -8,7 +8,6 @@
   <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/ce6fdfbd-4771-472d-9202-c5fa18a3d194" height="150">
 </div>
 
-
 ### Hello World! 👋
 <img src="https://media.giphy.com/media/pZMceal7Lo0sXkLOTf/giphy.gif" width="240" height="240" align="right">
 <div align="left">
@@ -18,7 +17,7 @@
   <p>🎓 Fresh out of FIAP with a degree in System Analysis and Development, I'm equipped with essential skills like teamwork, project management, and more. While I don't have a formal job yet, I'm eager to apply my 
  skills in the professional realm.</p>
 </div>
-
+<br>
 <hr>
 
 <div align="center">
