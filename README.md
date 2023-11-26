@@ -36,9 +36,3 @@
   <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
-
-<hr>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/7520qFULuAK8JK0B6S/giphy.gif" alt="Banner - Hollow Knight" width="500">
-</div>
