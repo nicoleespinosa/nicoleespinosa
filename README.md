@@ -8,7 +8,7 @@
   <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/ce6fdfbd-4771-472d-9202-c5fa18a3d194" height="150">
 </div>
 
-### Hello World! 👋
+## Hello World! 👋
 <img src="https://media.giphy.com/media/pZMceal7Lo0sXkLOTf/giphy.gif" width="240" height="240" align="right">
 <div align="left">
   <p>✨I'm Nicole Espinosa, a 19-year-old Java Developer navigating the grayness of Sao Paulo, Brazil.</p>
@@ -17,6 +17,11 @@
   <p>🎓 Fresh out of FIAP with a degree in System Analysis and Development, I'm equipped with essential skills like teamwork, project management, and more. While I don't have a formal job yet, I'm eager to apply my 
  skills in the professional realm.</p>
 </div>
+
+### Connect with me:
+📧 Email: nicoleespinosadev@gmail.com
+<br>
+🔗 LinkedIn: [linkedin.com/in/nicolespinosa/](https://www.linkedin.com/in/nicolespinosa/)
 <br>
 <hr>
 
@@ -36,3 +41,5 @@
   <img align="center" alt="Figma" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
+
+<hr>
