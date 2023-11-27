@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/5447528d-7b34-460c-a143-18813d695ce8" alt="Nicole Espinosa - Java Developer" height="300">
+  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/5447528d-7b34-460c-a143-18813d695ce8" alt="Nicole Espinosa - Java Developer" width="800">
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/ce6fdfbd-4771-472d-9202-c5fa18a3d194" height="150">
+  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/ce6fdfbd-4771-472d-9202-c5fa18a3d194" width="400">
 </div>
 
 ## Hello World! 👋
@@ -26,7 +26,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/cd680ae8-17d8-41e4-a749-b5aaa1d24d80" height="150">
+  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/cd680ae8-17d8-41e4-a749-b5aaa1d24d80" width="400">
 </div> 
 <br>
 
