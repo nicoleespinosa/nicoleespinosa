@@ -14,7 +14,7 @@
   <p>✨I'm Nicole Espinosa, a 19-year-old Java Developer navigating the grayness of Sao Paulo, Brazil.</p>
   <p> 💗 I'm deeply passionate about music, films, and a very specific type of game. Apart from coding and diving into UI/UX,
   I find immense joy in crafting fun and useful projects for my portfolio, which you can check out once it's ready (currently under construction 🚧).</p>
-  <p>🎓 Fresh out of FIAP with a degree in System Analysis and Development, I'm equipped with essential skills like teamwork, project management, and more. While I don't have a formal job yet, I'm eager to apply my 
+  <p>🎓 Fresh out of FIAP with a degree in Systems Analysis and Development, I'm equipped with essential skills like teamwork, project management, and more. While I don't have a formal job yet, I'm eager to apply my 
  skills in the professional realm.</p>
 </div>
 
