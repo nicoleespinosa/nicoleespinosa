@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/5447528d-7b34-460c-a143-18813d695ce8" alt="Nicole Espinosa - Java Developer" width="800">
+  <img src="https://github.com/nicoleespinosa/nicoleespinosa/assets/107057243/5447528d-7b34-460c-a143-18813d695ce8" alt="Nicole Espinosa - Java Developer" width="700">
 </div>
 
 <hr>
