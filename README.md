@@ -21,7 +21,7 @@
 ### Connect with me:
 📧 Email: nicoleespinosadev@gmail.com
 <br>
-🔗 LinkedIn: [linkedin.com/in/nicolespinosa/](https://www.linkedin.com/in/nicolespinosa/)
+🔗 LinkedIn: [linkedin.com/in/nicolespinosa/](https://www.linkedin.com/in/nicolespinosa)
 <br>
 <hr>
 
