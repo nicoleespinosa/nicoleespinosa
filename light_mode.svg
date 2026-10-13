@@ -968,7 +968,7 @@ text,tspan{white-space:pre;}
 <tspan x="500" y="450"><tspan class="cc">. </tspan></tspan>
 <tspan x="500" y="470"><tspan class="cc">- </tspan><tspan class="key">GitHub Stats</tspan> <tspan class="cc">—————————————————————————————————————————————</tspan></tspan>
 <tspan x="500" y="490"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">2 {Contributed: 0}</tspan><tspan class="cc"> | </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">0</tspan></tspan>
-<tspan x="500" y="510"><tspan class="cc">. </tspan><tspan class="key">Commits (year)</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">21</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">15</tspan></tspan>
+<tspan x="500" y="510"><tspan class="cc">. </tspan><tspan class="key">Commits (year)</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">36</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">15</tspan></tspan>
 </text>
 <circle cx="506" cy="536" r="6" fill="#8b949e"/>
 <circle cx="528" cy="536" r="6" fill="#24292f"/>
